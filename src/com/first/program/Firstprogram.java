@@ -1,10 +1,10 @@
 package com.first.program;
 
-public class Firstprogram {
+public class FIrstProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- System.out.println("Dev coding classes");
+
 	}
 
 }
